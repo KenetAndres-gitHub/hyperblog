@@ -36,4 +36,11 @@ body
     font-size: 20px;
 }
 
+#footer{
+    background: #4f4f4f;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+}
 
